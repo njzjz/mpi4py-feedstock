@@ -36,423 +36,234 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_64_mpimpichpython3.10.____cpython</td>
+              <td>linux_64_mpimpichpython3.10.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpimpichpython3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpimpichpython3.10._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_mpimpichpython3.7.____cpython</td>
+              <td>linux_64_mpimpichpython3.8.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpimpichpython3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpimpichpython3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_mpimpichpython3.8.____73_pypy</td>
+              <td>linux_64_mpimpichpython3.9.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpimpichpython3.8.____73_pypy" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpimpichpython3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_mpimpichpython3.8.____cpython</td>
+              <td>linux_64_mpiopenmpipython3.10.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpimpichpython3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpiopenmpipython3.10._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_mpimpichpython3.9.____73_pypy</td>
+              <td>linux_64_mpiopenmpipython3.8.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpimpichpython3.9.____73_pypy" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpiopenmpipython3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_mpimpichpython3.9.____cpython</td>
+              <td>linux_64_mpiopenmpipython3.9.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpimpichpython3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpiopenmpipython3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_mpiopenmpipython3.10.____cpython</td>
+              <td>linux_aarch64_mpimpichpython3.10.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpiopenmpipython3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpimpichpython3.10._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_mpiopenmpipython3.7.____cpython</td>
+              <td>linux_aarch64_mpimpichpython3.8.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpiopenmpipython3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpimpichpython3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_mpiopenmpipython3.8.____73_pypy</td>
+              <td>linux_aarch64_mpimpichpython3.9.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpiopenmpipython3.8.____73_pypy" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpimpichpython3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_mpiopenmpipython3.8.____cpython</td>
+              <td>linux_aarch64_mpiopenmpipython3.10.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpiopenmpipython3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpiopenmpipython3.10._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_mpiopenmpipython3.9.____73_pypy</td>
+              <td>linux_aarch64_mpiopenmpipython3.8.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpiopenmpipython3.9.____73_pypy" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpiopenmpipython3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_mpiopenmpipython3.9.____cpython</td>
+              <td>linux_aarch64_mpiopenmpipython3.9.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_64_mpiopenmpipython3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpiopenmpipython3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_mpimpichpython3.10.____cpython</td>
+              <td>linux_ppc64le_mpimpichpython3.10.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpimpichpython3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpimpichpython3.10._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_mpimpichpython3.7.____cpython</td>
+              <td>linux_ppc64le_mpimpichpython3.8.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpimpichpython3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpimpichpython3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_mpimpichpython3.8.____73_pypy</td>
+              <td>linux_ppc64le_mpimpichpython3.9.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpimpichpython3.8.____73_pypy" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpimpichpython3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_mpimpichpython3.8.____cpython</td>
+              <td>linux_ppc64le_mpiopenmpipython3.10.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpimpichpython3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpiopenmpipython3.10._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_mpimpichpython3.9.____73_pypy</td>
+              <td>linux_ppc64le_mpiopenmpipython3.8.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpimpichpython3.9.____73_pypy" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpiopenmpipython3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_mpimpichpython3.9.____cpython</td>
+              <td>linux_ppc64le_mpiopenmpipython3.9.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpimpichpython3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpiopenmpipython3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_mpiopenmpipython3.10.____cpython</td>
+              <td>osx_64_mpimpichpython3.10.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpiopenmpipython3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpimpichpython3.10._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_mpiopenmpipython3.7.____cpython</td>
+              <td>osx_64_mpimpichpython3.8.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpiopenmpipython3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpimpichpython3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_mpiopenmpipython3.8.____73_pypy</td>
+              <td>osx_64_mpimpichpython3.9.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpiopenmpipython3.8.____73_pypy" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpimpichpython3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_mpiopenmpipython3.8.____cpython</td>
+              <td>osx_64_mpiopenmpipython3.10.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpiopenmpipython3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpiopenmpipython3.10._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_mpiopenmpipython3.9.____73_pypy</td>
+              <td>osx_64_mpiopenmpipython3.8.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpiopenmpipython3.9.____73_pypy" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpiopenmpipython3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_mpiopenmpipython3.9.____cpython</td>
+              <td>osx_64_mpiopenmpipython3.9.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_mpiopenmpipython3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpiopenmpipython3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_mpimpichpython3.10.____cpython</td>
+              <td>osx_arm64_mpimpichpython3.10.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpimpichpython3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_mpimpichpython3.10._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_mpimpichpython3.7.____cpython</td>
+              <td>osx_arm64_mpimpichpython3.8.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpimpichpython3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_mpimpichpython3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_mpimpichpython3.8.____73_pypy</td>
+              <td>osx_arm64_mpimpichpython3.9.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpimpichpython3.8.____73_pypy" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_mpimpichpython3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_mpimpichpython3.8.____cpython</td>
+              <td>osx_arm64_mpiopenmpipython3.10.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpimpichpython3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_mpiopenmpipython3.10._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_mpimpichpython3.9.____73_pypy</td>
+              <td>osx_arm64_mpiopenmpipython3.8.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpimpichpython3.9.____73_pypy" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_mpiopenmpipython3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_mpimpichpython3.9.____cpython</td>
+              <td>osx_arm64_mpiopenmpipython3.9.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpimpichpython3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_mpiopenmpipython3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_mpiopenmpipython3.10.____cpython</td>
+              <td>win_64_python3.10.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpiopenmpipython3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=win&configuration=win_64_python3.10._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_mpiopenmpipython3.7.____cpython</td>
+              <td>win_64_python3.8.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpiopenmpipython3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=win&configuration=win_64_python3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_mpiopenmpipython3.8.____73_pypy</td>
+              <td>win_64_python3.9.</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpiopenmpipython3.8.____73_pypy" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_ppc64le_mpiopenmpipython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpiopenmpipython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_ppc64le_mpiopenmpipython3.9.____73_pypy</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpiopenmpipython3.9.____73_pypy" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_ppc64le_mpiopenmpipython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_mpiopenmpipython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpimpichpython3.10.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpimpichpython3.10.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpimpichpython3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpimpichpython3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpimpichpython3.8.____73_pypy</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpimpichpython3.8.____73_pypy" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpimpichpython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpimpichpython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpimpichpython3.9.____73_pypy</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpimpichpython3.9.____73_pypy" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpimpichpython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpimpichpython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpiopenmpipython3.10.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpiopenmpipython3.10.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpiopenmpipython3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpiopenmpipython3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpiopenmpipython3.8.____73_pypy</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpiopenmpipython3.8.____73_pypy" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpiopenmpipython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpiopenmpipython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpiopenmpipython3.9.____73_pypy</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpiopenmpipython3.9.____73_pypy" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpiopenmpipython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_64_mpiopenmpipython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_arm64_mpimpichpython3.10.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_mpimpichpython3.10.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_arm64_mpimpichpython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_mpimpichpython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_arm64_mpimpichpython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_mpimpichpython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_arm64_mpiopenmpipython3.10.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_mpiopenmpipython3.10.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_arm64_mpiopenmpipython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_mpiopenmpipython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_arm64_mpiopenmpipython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_mpiopenmpipython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_python3.10.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=win&configuration=win_64_python3.10.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_python3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=win&configuration=win_64_python3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_python3.8.____73_pypy</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=win&configuration=win_64_python3.8.____73_pypy" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_python3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=win&configuration=win_64_python3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_python3.9.____73_pypy</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=win&configuration=win_64_python3.9.____73_pypy" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_python3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=644&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=win&configuration=win_64_python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mpi4py-feedstock?branchName=main&jobName=win&configuration=win_64_python3.9._" alt="variant">
                 </a>
               </td>
             </tr>

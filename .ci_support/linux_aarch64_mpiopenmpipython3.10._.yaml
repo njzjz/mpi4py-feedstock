@@ -1,0 +1,30 @@
+BUILD:
+- aarch64-conda_cos7-linux-gnu
+c_compiler:
+- gcc
+c_compiler_version:
+- '7'
+cdt_arch:
+- aarch64
+cdt_name:
+- cos7
+channel_sources:
+- deepmodeling,https://deepmodeling.njzjz.win,defaults
+channel_targets:
+- deepmodeling main
+docker_image:
+- quay.io/condaforge/linux-anvil-cos7-x86_64
+mpi:
+- openmpi
+mpich:
+- '3'
+openmpi:
+- '4'
+pin_run_as_build:
+  python:
+    min_pin: x.x
+    max_pin: x.x
+python:
+- 3.10.*
+target_platform:
+- linux-aarch64

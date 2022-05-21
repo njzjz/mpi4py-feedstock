@@ -1,0 +1,26 @@
+MACOSX_DEPLOYMENT_TARGET:
+- '11.0'
+c_compiler:
+- clang
+c_compiler_version:
+- '11'
+channel_sources:
+- deepmodeling,https://deepmodeling.njzjz.win,defaults
+channel_targets:
+- deepmodeling main
+macos_machine:
+- arm64-apple-darwin20.0.0
+mpi:
+- mpich
+mpich:
+- '3'
+openmpi:
+- '4'
+pin_run_as_build:
+  python:
+    min_pin: x.x
+    max_pin: x.x
+python:
+- 3.8.*
+target_platform:
+- osx-arm64
